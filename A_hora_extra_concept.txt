@@ -1,0 +1,20 @@
+Nome - A hora extra
+Qual História - Um repositor que de dia trabalha normalmente porem a noite tenta sobreviver contra a encarnação dos males do mercado
+Objetivo - Sobreviver as noites no mercado utilizando recursos coletados no inicio do expediente 
+Diferencial - jogo de terror e sobrevivência em cenário cotidiano com elementos de rogue like 
+
+Estilo - sobrevivência e terror 
+pov - first person
+gênero - simulador e rogue like 
+
+concept - 1 mês  
+pre prod - 6 meses 
+produção - 8 meses 
+lançamento -  1 mês 
+pos lançamento  - 1 ano (bugs e adicionar conteúdo) beleza e brinquedo 
+
+níveis - 6 noites
+mecânicas - coletar itens, stealth, combate e rotas 
+lanç. - 12 outubro de 2027
+
+
